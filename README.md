@@ -1,0 +1,1 @@
+# lambda-from-dynamodb-streams-to-sns-python
